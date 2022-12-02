@@ -1,0 +1,60 @@
+[ 
+	{
+		"answers": ["ม้า", "ไก่", "กา"],
+		"questions": [
+			{
+				"questionText" : "อะไรเป็นสัตว์ปีก",
+				"correctAnswers" : ["ไก่", "กา"]
+			}
+		]
+	},{
+		"answers": ["3 นิ้ว", "4 นิ้ว", "5 นิ้ว"],
+		"questions": [
+			{
+				"questionText" : "ไก่จับคีย์บอร์ดยังไงนะ",
+				"correctAnswers" : ["3 นิ้ว"]
+			},{
+				"questionText" : "คนจับคีย์บอร์ดยังไงนะ",
+				"correctAnswers" : ["5 นิ้ว"]
+			},{
+				"questionText" : "แล้วคนที่เป็นไก่ล่ะจับคีย์บอร์ดยังไงนะ",
+				"correctAnswers" : ["3 นิ้ว"]
+			}
+		],
+        "score": 3
+	},{
+		"answers": ["ผ่าน","ไม่ผ่าน","ปีหน้าเอาใหม่"],
+		"questions": [
+			{
+				"questionText" : "พี่เล็กจะสอบผ่านป่าว",
+				"correctAnswers" : ["ผ่าน"]
+			}
+		],
+        "score": 5
+	},{
+		"answers": ["8 โมง", "9 โมง", "10 โมง"],
+		"questions": [
+			{
+				"questionText" : "พี่แบ้งมาทำงานกี่โมง",
+				"correctAnswers" : ["มาสายตลอด", "11 โมง", "อะหยอกเย่น"]
+			}
+		],
+        "score" : 4
+	},{
+		"answers": ["คิดเอาเองดิ โตแล้ว", "ไม่ตก", "ตก"],
+		"questions": [
+			{
+				"questionText" : "วันนี้ฝนจะตกไหม",
+				"correctAnswers" : ["ตก", "ไม่ตก"]
+			}
+		]
+	},{
+		"answers": ["ไม่ไป", "ยังไม่รู้", "รู้แล้ว"],
+		"questions": [
+			{
+				"questionText" : "รู้ยังกินเลี้ยงพน",
+				"correctAnswers" : ["รู้แล้ว", "รู้แล้ว"]
+			}
+		]
+	}
+]
